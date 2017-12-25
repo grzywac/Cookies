@@ -31,7 +31,6 @@
         android:layout_margin="16dp"
         android:text="EAT COOKIE"
         android:clickable="true"
-        android:onClick="eatCookie"
         />
 
 </LinearLayout>
